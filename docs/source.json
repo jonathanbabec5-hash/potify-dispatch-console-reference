@@ -1,0 +1,7 @@
+{
+  "project": "POTIFY Dispatch Console",
+  "kind": "Local reference app",
+  "source": "potify-dispatch-console.zip. Author-created standalone release with an empty post list and empty activity log. Uses local browser storage. No live workspace data is supplied.",
+  "scope": "The private console remains private. This empty demo contains no account connection, post queue or operating logs.",
+  "prepared": "2026-11-25"
+}
