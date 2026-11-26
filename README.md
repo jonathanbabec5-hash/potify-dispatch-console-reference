@@ -2,6 +2,14 @@
 
 [Complete repository directory tree](docs/DIRECTORY.md)
 
+## One slot, two people, one preventable duplicate
+
+An editor sees a blank receipt at the end of a long day. Is that a reason to send again? The Dispatch Console gives a team a safe place to rehearse the much less dramatic, and much more useful, answer: find out who owns the slot first.
+
+The [local console](public/index.html) stores fictional records in the browser. Read its [checks](tests/project.test.mjs) alongside a manual rehearsal: reserve a slot, let a second editor find it, then add a receipt to the first record. A local state change is visible without sending a real message.
+
+Describe the exact screen or word that would tempt an editor to replay an uncertain post. Include the steps using made-up copy. The private dispatch console, connected accounts and actual publishing records are outside this example.
+
 **Local reference app.** Let a team audit what was planned, approved, sent and verified without replaying a post.
 
 ### Setup and usage
