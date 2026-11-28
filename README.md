@@ -1,5 +1,13 @@
 # POTIFY Dispatch Console
 
+## Find your way in
+
+| If you are… | Start here | Try this |
+| --- | --- | --- |
+| An editor | [Open the local console source](public/index.html) | Rehearse slot ownership and receipts with fictional records. |
+| A developer | [Read the checks](tests/project.test.mjs) | Inspect what the local reference tests. |
+| A workflow contributor | [Explore the state library](https://github.com/jonathanbabec5-hash/potify-operations-workflow) | Compare the separate review and publication state model. |
+
 [Complete repository directory tree](docs/DIRECTORY.md)
 
 ## One slot, two people, one preventable duplicate
